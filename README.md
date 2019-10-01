@@ -9,6 +9,7 @@ Before you use the App, you must find some places, for hiding small boxes. In ca
 At the beginning two teams are formed. Let's say Team Red and Team Blue. Both teams start the APP and select their team in the APP. Now the first intermediate station appears on a map for each team. Each team has its own intermediate station and can only see these. If a team finds its waypoint, it will receive a code that it can enter in the APP. This code now makes the next stopover visible. At the same time, the current intermediate station is marked as found. All players, including those of the opposing team now see that a stopover has been found
 There are two different waypoints. Code only and Mystery. Code only stations consist of a hidden sign with a code on it. Mystery Stations consist of a small container containing a note with one question and three answers. Here is an example.
 
+<img src="./doc/question.png" height="150">
 
 Behind every answer there is a code and a number with an assigned character or number. The code is used to make the next station visible. The code is needed to find the actual treasure. Here, for the character or the digit must be transferred to a result developed as follows.
 
